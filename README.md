@@ -1,1 +1,1 @@
-# FancyBox-gallery-example
+# Picture gallery using FancyBox jQuery.
